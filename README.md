@@ -1,1 +1,15 @@
 # API_INTEGRATION
+
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : VEMULA HARISHMA
+
+**INTERN ID** : CT6WEOV
+
+**DOMAIN** : PYTHON
+
+**BATCH DURATION** : DECEMBE 17th,2024 to FEBRUARY 2nd,2025
+
+# OUTPUT OF THE TASK
+
+![Screenshot (5)](https://github.com/user-attachments/assets/234b9757-6e30-4198-9e70-0b8224d3f70f)
